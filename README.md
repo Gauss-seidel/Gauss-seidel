@@ -31,8 +31,7 @@
 ---
 
 ## 📌 Projects
-- 🔗 [PowerFit](https://proyectomonkey.onrender.com) – Educational platform focused on training and user management *(in development)*  
-- 🔗 [Flask Educational Platform](https://ampere2.onrender.com/) – Personal project deployed on **Render** *(demo coming soon)*  
+- 🔗 [PowerFit](https://portafoliopersonal-nhvv.onrender.com) - Portfolio
 
 ---
 
@@ -89,9 +88,7 @@
 ---
 
 ## 📌 Proyectos
-- 🔗 [PowerFit](https://proyectomonkey.onrender.com) – Plataforma educativa enfocada en entrenamiento y gestión de usuarios *(en desarrollo)*  
-- 🔗 [Flask Educational Platform](https://ampere2.onrender.com/) – Proyecto personal desplegado en **Render** *(demo disponible pronto)*  
-
+- 🔗 [PowerFit](https://portafoliopersonal-nhvv.onrender.com) - Portfolio
 ---
 
 ## 📊 Estadísticas de GitHub
