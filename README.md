@@ -31,7 +31,7 @@
 ---
 
 ## 📌 Projects
-- 🔗 [PowerFit](https://portafoliopersonal-nhvv.onrender.com) - Portfolio
+- 🔗 [More](https://portafoliopersonal-nhvv.onrender.com) - Portfolio
 
 ---
 
@@ -88,7 +88,7 @@
 ---
 
 ## 📌 Proyectos
-- 🔗 [PowerFit](https://portafoliopersonal-nhvv.onrender.com) - Portfolio
+- 🔗 [Mas](https://portafoliopersonal-nhvv.onrender.com) - Portfolio
 ---
 
 ## 📊 Estadísticas de GitHub
