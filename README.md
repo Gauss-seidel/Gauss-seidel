@@ -85,8 +85,8 @@ Web application for creating and managing résumés with user authentication, cu
 
 ## GitHub Stats
 
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauss-seidel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauss-seidel&layout=compact&theme=radical)
+![Willian's GitHub stats](./metrics.svg)
+![Top Languages](./metrics-languages.svg)
 
 ---
 
@@ -193,8 +193,8 @@ Aplicación web para crear y gestionar currículums con autenticación de usuari
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub de Willian](https://github-readme-stats.vercel.app/api?username=Gauss-seidel&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauss-seidel&layout=compact&theme=radical)
+![Estadísticas de GitHub de Willian](./metrics.svg)
+![Lenguajes más usados](./metrics-languages.svg)
 
 ---
 
